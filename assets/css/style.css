@@ -83,7 +83,13 @@ h1 {
     float: left;
     margin: 20px 40px 20px 0px;
 }
-.portfolio-image {
+.p-p1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.p-p2 {
+    margin-top: 8px;
+    margin-bottom: 0px;
 }
 .titles {
     position: relative;
